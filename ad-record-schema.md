@@ -1,4 +1,4 @@
-# Ad Record Schema
+# Pex JobSlayer Ad Record Schema
 
 Use one row per distinct Library ID. Keep unknown fields blank or `unknown`; never use zero to mean missing.
 
